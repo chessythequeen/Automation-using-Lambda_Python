@@ -2,7 +2,7 @@
 This repo contains lambda projects to automate a wide range of tasks and processes in AWS
 
 **EBS_automatic_snapshot.py**
-Automates the process of creation EBS snapshot
+Automates the process of creation EBS snapshot. Follow this step by step guide https://medium.com/@janetchessybrand/automate-ebs-snapshot-with-lambda-c1f360c85ae7
 
 **EC2_start.py**
 Automates the start of instances at a particular time in a day
