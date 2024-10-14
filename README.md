@@ -1,5 +1,5 @@
 # Lambda-challenges
-This repo contains lambda projects to automate a wide range of tasks and processes
+This repo contains lambda projects to automate a wide range of tasks and processes in AWS
 
 **EBS_automatic_snapshot.py**
 Automates the process of creation EBS snapshot
